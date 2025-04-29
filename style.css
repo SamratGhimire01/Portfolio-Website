@@ -461,6 +461,13 @@ span {
   margin-bottom: 3rem;
   color: var(--text-color);
 }
+.contact h3{
+
+  font-size: 2rem;
+  margin: 2rem 0;
+  color: #dfdba5;
+
+}
 
 .contact form {
   display: flex;
